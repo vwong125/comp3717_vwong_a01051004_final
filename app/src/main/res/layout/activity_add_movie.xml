@@ -16,7 +16,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/movie_title" />
+            android:text="@string/movie_title"
+            style="@style/Text"/>
 
         <EditText
             android:id="@+id/movie_title"
@@ -34,7 +35,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/description" />
+            android:text="@string/description"
+            style="@style/Text"/>
 
         <EditText
             android:id="@+id/description"
@@ -52,7 +54,8 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/info_link" />
+            android:text="@string/info_link"
+            style="@style/Text"/>
 
         <EditText
             android:id="@+id/info_link"
@@ -65,14 +68,19 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/info_link_note" />
+        android:layout_marginTop="50dp"
+        android:text="@string/info_link_note"
+        style="@style/Text"
+        android:layout_gravity="center"/>
 
     <Button
+        android:layout_marginTop="15dp"
         android:layout_width="300dp"
         android:layout_height="wrap_content"
         android:text="@string/add_movie"
         android:layout_gravity="center"
         android:onClick="addToDatabase"
+        style="@style/MainButton"
         />
 
     <Button
@@ -81,6 +89,7 @@
         android:text="@string/back_to_main"
         android:layout_gravity="center"
         android:onClick="back"
+        style="@style/MainButton"
         />
 
 </LinearLayout>

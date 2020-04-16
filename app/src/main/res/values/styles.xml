@@ -8,4 +8,20 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="Header">
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="MainButton">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:backgroundTint">@android:color/background_dark</item>
+        <item name="android:layout_width">200dp</item>
+    </style>
+
+    <style name="Text">
+        <item name="android:fontFamily">monospace</item>
+        <item name="android:layout_marginRight">5dp</item>
+        <item name="android:layout_marginLeft">5dp</item>
+    </style>
+
 </resources>
