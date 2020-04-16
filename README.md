@@ -2,7 +2,8 @@
 
 Utilizes a firebase database to store all the information
 
-#Activities
+# Activities
+The following are the activities:
 
 ## Main Activity
   - Provides the user with two options, view all movies in the database or to add a movie
