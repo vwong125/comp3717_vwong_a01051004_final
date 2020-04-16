@@ -3,7 +3,6 @@ package ca.bcit.comp3717_vwong_a01051004_final;
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.ContentValues;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
