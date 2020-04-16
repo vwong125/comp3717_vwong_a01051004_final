@@ -3,4 +3,13 @@
     <string name="view_all_movies">View All Movies</string>
     <string name="add_delete_movie">Add/Delete Movie</string>
     <string name="netflix_movie_application">Netflix Movie Application</string>
+    <string name="movie_title">Movie Title</string>
+    <string name="kingdom">Kingdom</string>
+    <string name="description">Description</string>
+    <string name="korean_game_of_thrones">Korean Game of Thrones</string>
+    <string name="info_link">Info Link</string>
+    <string name="https_en_wikipedia_org_wiki_kingdom_south_korean_tv_series">https://en.wikipedia.org/wiki/Kingdom_(South_Korean_TV_series)</string>
+    <string name="info_link_note">Note: Info Link is an optional field</string>
+    <string name="add_movie">Add Movie</string>
+    <string name="back_to_main">Back To Main</string>
 </resources>
