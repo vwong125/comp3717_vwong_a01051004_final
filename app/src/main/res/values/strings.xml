@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">comp3717_vwong_a01051004_final</string>
+    <string name="view_all_movies">View All Movies</string>
+    <string name="add_delete_movie">Add/Delete Movie</string>
+    <string name="netflix_movie_application">Netflix Movie Application</string>
 </resources>
